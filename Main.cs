@@ -9,6 +9,7 @@ using SDG.Unturned;
 using Rocket.Unturned.Chat;
 using Rocket.API;
 using Rocket.Unturned;
+using UnityEngine;
 
 namespace BlackListedDrivers
 {
@@ -38,7 +39,7 @@ namespace BlackListedDrivers
             {
                 if (Blacklisted.Contains(player.CSteamID))
                 {
-                    player.CurrentVehicle.kickPlayer(0);
+                    player.CurrentVehicle.forceRemovePlayer(out byte seat, player.CSteamID, out Vector3 point, out byte angle);
                     UnturnedChat.Say(player.CSteamID, "You have been blacklisted from driving.");
                 }
 
@@ -48,7 +49,7 @@ namespace BlackListedDrivers
 
                     if (player2.HasPermission("driver.group"))
                     {
-                        player.CurrentVehicle.kickPlayer(0);
+                        player.CurrentVehicle.forceRemovePlayer(out byte seat, player.CSteamID, out Vector3 point, out byte angle);
                         UnturnedChat.Say(player.CSteamID, "You have been blacklisted from driving.");
 
                         Provider.map = "Washington";

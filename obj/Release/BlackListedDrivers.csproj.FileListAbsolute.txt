@@ -9,3 +9,15 @@ c:\users\alex\documents\visual studio 2015\Projects\BlackListedDrivers\BlackList
 c:\users\alex\documents\visual studio 2015\Projects\BlackListedDrivers\BlackListedDrivers\obj\Release\BlackListedDrivers.dll
 c:\users\alex\documents\visual studio 2015\Projects\BlackListedDrivers\BlackListedDrivers\obj\Release\BlackListedDrivers.pdb
 c:\users\alex\documents\visual studio 2015\Projects\BlackListedDrivers\BlackListedDrivers\obj\Release\BlackListedDrivers.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\obj\Release\BlackListedDrivers.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\obj\Release\BlackListedDrivers.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\BlackListedDrivers.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\BlackListedDrivers.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\Assembly-CSharp-firstpass.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\Assembly-CSharp.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\Rocket.API.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\Rocket.Core.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\Rocket.Unturned.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\UnityEngine.CoreModule.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\bin\Release\UnityEngine.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\BlacklistedDrivers\obj\Release\BlackListedDrivers.csproj.CopyComplete
